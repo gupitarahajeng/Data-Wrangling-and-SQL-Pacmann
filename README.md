@@ -21,7 +21,7 @@ I used SQL to create tables that I will use to answer the objectives that I want
 The database consists of 9 tables and in the table below I noted some of the tables that I eventually used 
 to create the CSV file for the base of my analysis which will answer the objective I want to find.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/2433f880-6199-49fa-953a-525975e0b642)
+![table](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/0e8f6bd1-e3cb-4fef-b00b-18a7e96cfc81)
 
 
 ### Data Analysis and Process
