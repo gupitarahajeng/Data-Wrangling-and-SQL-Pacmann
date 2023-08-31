@@ -112,7 +112,7 @@ followed by debit card by 20%. Boleto and voucher make the least used payment me
 
 
 ### Conclusion
-•	The popularity of a product category sales is not always directly proportional to the company's sales growth.
-•	The number of orders in a state is comparatively proportionate to the total order value or company revenue.
-•	The number of orders and total revenue in a state is not always aligned with the average order value per customer.
-•	Most customers when placing orders chose credit cards as their preference payment method.
+- The popularity of a product category sales is not always directly proportional to the company's sales growth.
+- The number of orders in a state is comparatively proportionate to the total order value or company revenue.
+- The number of orders and total revenue in a state is not always aligned with the average order value per customer.
+- Most customers when placing orders chose credit cards as their preference payment method.
