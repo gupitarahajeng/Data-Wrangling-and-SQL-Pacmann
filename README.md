@@ -34,7 +34,7 @@ Followed by removing the duplicate as I found that there are lots of doubling or
 I found that there are no inconsistent formats in the data.
 I then pivot and visualize the data, and the visualization you can see below.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/36f7b14f-184c-471c-8754-90e17e70de2d)
+![10 Most Popular Product Category (obj 1)](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/654185db-341e-4bdf-8233-4a6f8f346db5)
 
 From the picture above, the most popular product category is bed_bath_table which sells luxury bedding, home apparel, bathroom, and outdoor lifestyle products.
 Then in second place with health_beauty which includes cosmetics, skincare, and health supplements.
@@ -58,7 +58,7 @@ Followed by pivoting the year, month data, and total order data.
 While I pivoted the data, I also managed to remove sales data from (2018, 9) and (2018, 10) as it is representative enough to be included in this narrative. 
 Lastly, I visualize the data, and the visualization you can see below.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/19c8dbf8-d172-4d85-b58c-b4b6a61596e6)
+![Sales Growth Thoughout 2016-2018 (obj 2)](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/97ec4253-50bc-4465-8d99-6361350f672f)
 
 From the picture above, health_beauty has the best sales growth compared to the other 9 product categories. 
 Followed by houseware and auto which also had good growth because the sales value of products in these categories 
@@ -85,13 +85,13 @@ From the pivot table, I concluded that the higher the revenue, the higher the nu
 But, this does not mean that the average order value per customer per state is also the highest. 
 Hence I created two visualizations based on these findings.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/5b26ee0f-3e1a-41bb-a268-6cd954c5e2b3)
+![Customer States with The Highest Revenue(obj 3)_OK](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/1090c352-c877-47fe-bb46-1f22289d0743)
 
 The top three biggest revenue contributors based on revenue value and number of orders are SP, RJ, and MG 
 or you could say São Paulo, Rio de Janeiro, and Minas Gerais. 
 The three of them accounted for a total of over 10,000 orders each and revenue of $187,210,719,152, $19,760,856,966, and $16,200,057,169, respectively.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/61860f3d-4be9-4ece-b1ba-aed2a28dd5f3)
+![Customer States with The Highest Average Order Value(obj 3)_OK](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/35ba7f4b-589d-4046-a2e0-a8deea51caaf)
 
 Meanwhile, the top three biggest revenue contributors based on the highest average order value per customer are Paraíba, Alabama, and Acre. 
 The three of them accounted for a total of over $ 180/order/customer. 
@@ -105,7 +105,7 @@ There are no findings of inconsistent formats in the data.
 Followed by pivoting the data and sorting it from the highest payment method usage to the lowest. 
 Lastly, I visualize the data with the x-axis as the payment method and the y-axis as the total order and the result is below.
 
-![image](https://github.com/gupitarahajeng/Data-Wrangling-and-SQL-Pacmann/assets/138182400/05a9ae13-b8a7-4c7b-b887-6ab86cefacbb)
+![Customer's Payment trend (obj 4)](https://github.com/Tyrrrz/DiscordChatExporter/assets/138182400/5e80e235-a3ca-4b2c-9b1f-1a7df0fb43ea)
 
 Based on the pie chart above the most favourite payment method used by customers is credit card by 77% customers, 
 followed by debit card by 20%. Boleto and voucher make the least used payment method used by the customer by only 2%, and 1%, respectively.
